@@ -1,0 +1,25 @@
+###########
+# site.url, site.title
+
+url:   '130.241.158.91'
+title: 'IMAGO-server'
+
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+

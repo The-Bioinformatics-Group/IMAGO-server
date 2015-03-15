@@ -1,0 +1,25 @@
+###########
+# site.url, site.title
+
+url:   'http://mtop.github.io/albiorix'
+title: 'Albiorix'
+
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
